@@ -69,7 +69,3 @@ const module = await import("./module/utils.js"); // Directly awaiting a dynamic
 
 
 setTimeout(()=>{console.log('time out')}, 1000)
-
-// we are trying to add something here in the future
-// okay, all good
-// okay, all good now and fine
