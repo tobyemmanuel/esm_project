@@ -71,4 +71,4 @@ const module = await import("./module/utils.js"); // Directly awaiting a dynamic
 setTimeout(()=>{console.log('time out')}, 1000)
 console.log("We are learning GIT")
 console.log("We are learning GITHUB")
-console.log("We are learning GITHUB with my students")
+console.log("We are learning GIT with my students")
